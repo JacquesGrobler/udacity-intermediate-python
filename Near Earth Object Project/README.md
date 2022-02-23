@@ -224,13 +224,13 @@ Upon starting, the project contains several files and folders to help you get up
 
 ```
 .
-├── README.md       # This file.
+├── README.md
 ├── main.py
-├── models.py       # Task 1.
-├── read.py         # Task 2a.
-├── database.py     # Task 2b and Task 3b.
-├── filters.py      # Task 3a and Task 3c.
-├── write.py        # Task 4.
+├── models.py
+├── read.py
+├── database.py
+├── filters.py
+├── write.py
 ├── helpers.py
 ├── data
 │   ├── neos.csv
